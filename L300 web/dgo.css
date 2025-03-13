@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Rubik', sans-serif;
+    list-style: none;
+    text-decoration: none;
+}
+.boobs{
+    height: 500px;
+    width: 300%;
+    font-size: 100px;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    display: flex;
+    position: absolute;
+}
+body{
+ background-color: gray;
+}
+h1{
+    color: rgb(204, 181, 181);
+}
